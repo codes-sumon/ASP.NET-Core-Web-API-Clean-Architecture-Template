@@ -1,0 +1,17 @@
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.csproj.AssemblyReference.cache
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.AssemblyInfoInputs.cache
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.AssemblyInfo.cs
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.csproj.CoreCompileInputs.cache
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Application.deps.json
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Application.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Application.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Domain.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Infrastructure.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Domain.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\bin\Debug\net8.0\POS.Infrastructure.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.csproj.CopyComplete
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\refint\POS.Application.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\POS.Application.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Application\obj\Debug\net8.0\ref\POS.Application.dll

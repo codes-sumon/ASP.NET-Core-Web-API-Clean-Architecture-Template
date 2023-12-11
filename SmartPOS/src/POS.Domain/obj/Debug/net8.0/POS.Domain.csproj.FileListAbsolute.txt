@@ -1,0 +1,11 @@
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\bin\Debug\net8.0\POS.Domain.deps.json
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\bin\Debug\net8.0\POS.Domain.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\bin\Debug\net8.0\POS.Domain.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfoInputs.cache
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfo.cs
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.csproj.CoreCompileInputs.cache
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\refint\POS.Domain.dll
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\POS.Domain.pdb
+D:\ASP.NET\smartpos\SmartPOS\src\POS.Domain\obj\Debug\net8.0\ref\POS.Domain.dll
